@@ -4,6 +4,7 @@
    <a href="https://github.com/Wingedzy">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wingedzy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wingedzy&layout=compact&langs_count=6&theme=tokyonight"/>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
     
 <div style="display: inline_block"><br>``
