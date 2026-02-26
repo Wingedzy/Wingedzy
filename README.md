@@ -1,6 +1,14 @@
 <h1 align="center">Hi there <img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">, I'm Pedro Henrique</h1>
 <br>
-<h3 align="center">Hey there! I'm Pedro, an Data Engineer from Brazil. I'm currently looking for opportunities</h3>
+<h3 align="center">Hi there 👋 I'm Pedro Henrique  
+I'm a Data Analyst focused on Python, SQL and Business Intelligence.  
+I transform raw data into actionable insights through analysis and dashboards.
+
+Currently building projects in:
+• Data Analysis  
+• SQL  
+• Power BI  
+• ETL & Data Cleaning</h3>
 <h3 align="center">Connect with me:</h3>
 <div align="center">  
   <code><a href="https://www.linkedin.com/in/pedrohmmwing/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
