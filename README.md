@@ -3,6 +3,8 @@
 <h3 align="center">Hi there 👋 I'm Pedro Henrique
 
   
+
+
 I'm a Data Analyst focused on Python, SQL and Business Intelligence.  
 
 I transform raw data into actionable insights through analysis and dashboards.
