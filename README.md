@@ -1,8 +1,10 @@
 <h1 align="center">Hi there <img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">, I'm Pedro Henrique</h1>
 <br>
 <h3 align="center">Hi there 👋 I'm Pedro Henrique
+
   
 I'm a Data Analyst focused on Python, SQL and Business Intelligence.  
+
 I transform raw data into actionable insights through analysis and dashboards.
 
 Currently building projects in:
