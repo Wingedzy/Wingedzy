@@ -6,6 +6,7 @@ I'm a Data Analyst focused on Python, SQL and Business Intelligence.
 I transform raw data into actionable insights through analysis and dashboards.
 
 Currently building projects in:
+
 • Data Analysis  
 • SQL  
 • Power BI  
